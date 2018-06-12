@@ -6,4 +6,4 @@
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/Box-Model' title='Box Model'>Box Model</a> on Learn.co and start learning to code for free.</p>
 
-[link]: jsFiddle.net/flatiron_school/jtFgz
+[link]: https://jsFiddle.net/flatiron_school/jtFgz
