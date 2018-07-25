@@ -299,10 +299,10 @@ on a page in layouts.
 
 ## Resources
 
-[Mozilla Developer Network: Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
-[CSS Tricks: The CSS Box Model](https://css-tricks.com/the-css-box-model/)
-[Mozilla Developer Network: Box-Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
-[CSS Tricks: Box-Sizing](https://css-tricks.com/box-sizing/)
-[Video demonstration of the `display` property](https://www.youtube.com/embed/bKDs_FQkkEI)
+* [Mozilla Developer Network: Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
+* [CSS Tricks: The CSS Box Model](https://css-tricks.com/the-css-box-model/)
+* [Mozilla Developer Network: Box-Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+* [CSS Tricks: Box-Sizing](https://css-tricks.com/box-sizing/)
+* [Video demonstration of the `display` property](https://www.youtube.com/embed/bKDs_FQkkEI)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/Box-Model' title='Box Model'>Box Model</a> on Learn.co and start learning to code for free.</p>
