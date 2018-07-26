@@ -192,7 +192,7 @@ our element will take up on the screen is 242px (200px + 20px on the right side
 To get a sense for how these properties work in real time, you can play around
 with them here:
 
-<iframe width="100%" height="300" src="//jsfiddle.net/flatiron_school/jtFgzembedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/flatiron_school/jtFgz/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ### Legacy Browser Display and `box-sizing`
 
@@ -256,7 +256,7 @@ article {
 
 You can see these principles in action over here:
 
-<iframe width="100%" height="300" src="//jsfiddle.net/flatiron_school/sFfw5embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/flatiron_school/sFfw5/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## Display
 
